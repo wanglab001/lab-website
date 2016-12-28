@@ -1,0 +1,303 @@
+- name: Wei Wang
+  role: PI
+  startYear: 2000-09-01
+  email: wei-wang@ucsd.edu
+  photo: /static/img/members/WeiWang.jpg
+
+###############################################################################
+## PhD students
+################################################################################
+
+- name: Kai Zhang
+  role: PhD
+  startYear: 2013-09-01
+  email: kaz007@ucsd.edu
+  photo: /static/img/members/KaiZhang.jpg
+
+- name: Mengchi Wang
+  role: PhD
+  startYear: 2014-09-01
+  email: mew001@ucsd.edu
+  photo: /static/img/members/MengchiWang.jpg
+
+- name: Vu Ngo
+  role: PhD
+  startYear: 2014-09-01
+  email: vungo2004@gmail.com
+  photo: /static/img/members/VuNgo.jpg
+
+- name: Xue Sheng
+  role: PhD
+  startYear: 2015-09-01
+  email: xusheng@ucsd.edu
+  photo: /static/img/members/XueSheng.jpg
+
+- name: Chengyu Liu
+  role: PhD
+  startYear: 2015-09-01
+  email: chl556@ucsd.edu
+  photo: /static/img/members/ChengyuLiu.jpg
+
+- name: Kanishk Asthana
+  role: PhD
+  startYear: 2015-09-01
+  email: kasthana@eng.ucsd.edu
+  photo: /static/img/members/KanishkAsthana.jpg
+
+################################################################################
+## Postdocs
+################################################################################
+
+- name: Zhao Chen
+  role: Scientist
+  startYear: 2010-09-01
+  email: z7chen@ucsd.edu
+  photo: /static/img/members/ZhaoChen.jpg
+
+- name: Rizi Ai
+  role: Postdoc
+  startYear: 2012-09-01
+  email: riai@ucsd.edu
+  photo: /static/img/members/RiziAi.jpg
+
+- name: Andre Wildberg
+  role: Postdoc
+  startYear: 2012-09-01
+  email: awildberg@ucsd.edu
+  photo: /static/img/members/AndreWildberg.jpg
+
+- name: Richard Ainsworth
+  role: Postdoc
+  startYear: 2013-09-01
+  email: rainsworth@ucsd.edu
+  photo: /static/img/members/RichardAinsworth.png
+
+- name: Ryan Hard
+  role: Postdoc
+  startYear: 2013-09-01
+  email: hard.10@buckeyemail.osu.edu
+  photo: /static/img/members/RyanHard.jpg
+
+- name: Ying Zhao
+  role: Postdoc
+  startYear: 2015-09-01
+  email: yiz640@ucsd.edu
+  photo: /static/img/members/YingZhao.png
+
+
+################################################################################
+## Master students
+################################################################################
+
+################################################################################
+## Alumni
+################################################################################
+
+- name: Yun Zhu
+  role: Postdoc
+  startYear: 2011-03-01
+  endYear: 2015-05-01
+  current: Scientist, Thermo Fisher, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Wei He
+  role: Postdoc
+  startYear: 2010-09-01
+  endYear: 2015-01-01
+  email: expired@ucsd.edu
+  current: Scientist, Polypeptide Group, Los Angeles, California
+
+- name: Tung T. Nguyen
+  role: Postdoc
+  startYear: 2012-03-01
+  endYear: 2014-06-01
+  current: Data Scientist, Covance, Princeton, New Jersy
+  email: expired@ucsd.edu
+
+- name: John Whitaker
+  role: Postdoc
+  startYear: 2010-01-01
+  endYear: 2014-05-01
+  current: Scientist, Johnson&Johnson, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Haiyang Jia
+  role: Visiting scholar
+  startYear: 2012-02-01
+  endYear: 2014-02-01
+  current: Associate Professor, Jinlin University, Jilin, China
+  email: expired@ucsd.edu
+
+- name: Richard Stein
+  role: Postdoc
+  startYear: 2008-08-01
+  endYear: 2013-11-01
+  current: Research Scientist, UC Irvine, Irvine, California
+  email: expired@ucsd.edu
+
+- name: Lin Sun
+  role: Postdoc
+  startYear: 2012-08-01
+  endYear: 2013-11-01
+  current: Postdoc Researcher, NIH
+  email: expired@ucsd.edu
+
+- name: Sarah Kinnings
+  role: Postdoc
+  startYear: 2010-11-01
+  endYear: 2012-09-01
+  current: Bioinformatics Scientist, Sequenom, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Tao Wang
+  role: Postdoc
+  startYear: 2009-04-01
+  endYear: 2012-09-01
+  current: Scientist, Ambry Genetics, Irvine, California
+  email: expired@ucsd.edu
+
+- name: Shengchao Ding
+  role: Postdoc
+  startYear: 2009-09-01
+  endYear: 2012-08-01
+  current: Software Engineer, 3M Company, Minneapolis, Minnesota
+  email: expired@ucsd.edu
+
+- name: Xian Zhang
+  role: Postdoc
+  startYear: 2009-03-01
+  endYear: 2012-01-01
+  current: Software Engineer, Microsoft, Seatle, Washington.
+  email: expired@ucsd.edu
+
+- name: Rui Chang
+  role: Postdoc
+  startYear: 2008-02-01
+  endYear: 2011-11-01
+  current: Assistant Professor, Mount Sinai Mecial Center, New York.
+  email: expired@ucsd.edu
+
+- name: Jie Liu
+  role: PhD
+  startYear: 2004-09-01
+  endYear: 2010-08-01
+  email: expired@ucsd.edu
+
+- name: Jie Liu
+  role: Postdoc
+  startYear: 2010-08-01
+  endYear: 2011-04-01
+  current: Scientist, Pathway Genomics, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Robert Shoemaker
+  role: PhD
+  startYear: 2005-09-01
+  endYear: 2010-12-01
+  email: expired@ucsd.edu
+
+- name: Robert Shoemaker
+  role: Postdoc
+  startYear: 2011-01-01
+  endYear: 2011-03-01
+  current: Research Scientist, Illumina, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Kyoungjae Won
+  role: Postdoc
+  startYear: 2007-01-01
+  endYear: 2010-12-01
+  current: Assistant Professor, Univeristy of Pennsylvania, Philidaphia, Pennsylvania
+  email: expired@ucsd.edu
+
+- name: Yunyi Kang
+  role: Postdoc
+  startYear: 2009-03-01
+  endYear: 2010-02-01
+  current: Postdoc, Sanford-Burnham Institute, San Diego, California
+  email: expired@ucsd.edu
+
+- name: Li Shen
+  role: Postdoc
+  startYear: 2006-01-01
+  endYear: 2009-09-01
+  current: Assistant Professor, Mount Sinai Mecial Center, New York.
+  email: expired@ucsd.edu
+
+- name: Tingjun Hou
+  role: Postdoc
+  startYear: 2004-09-01
+  endYear: 2009-09-01
+  current: Professor, Soochow University, Suzhou, China
+  email: expired@ucsd.edu
+
+- name: Xiaolong Yu
+  role: Postdoc
+  startYear: 2005-09-01
+  endYear: 2006-11-01
+  current: Senior Scientist, Genentech, South San Francisco
+  email: expired@ucsd.edu
+
+- name: William A. McLaughlin
+  role: Postdoc
+  startYear: 2004-08-01
+  endYear: 2008-08-01
+  current: Assistant Profssor, The Commonwealth Medical College, Scranton, Pennsylvania
+  email: expired@ucsd.edu
+
+- name: Iouri Chepelev
+  role: Postdoc
+  startYear: 2007-09-01
+  endYear: 2008-08-01
+  current: Research Fellow, NIH
+  email: expired@ucsd.edu
+
+- name: Bo Ding
+  role: Postdoc
+  startYear: 2010-09-01
+  endYear: 2016-12-12
+  email: bding@ucsd.edu
+  photo: /static/img/members/BoDing.jpg
+
+- name: David Medovoy
+  role: Postdoc
+  startYear: 2013-09-01
+  endYear: 2016-12-06
+  email: dmedovoy@ucsd.edu
+  photo: /static/img/members/DavidMedovoy.jpg
+
+- name: Nan Li
+  role: Postdoc
+  startYear: 2009-04-01
+  endYear: 2015-03-01
+  email: expired@ucsd.edu
+  photo: /static/img/members/NanLi.jpg
+
+- name: Nan Li
+  role: Scientist
+  startYear: 2015-04-01
+  endYear: 2016-08-01
+  email: expired@ucsd.edu
+  photo: /static/img/members/NanLi.jpg
+  current: Director of Informatics, Repu Gene, Hangzhou, China
+
+- name: Meixin Wu
+  role: Master
+  startYear: 2014-01-01
+  endYear: 2016-05-01
+  email: expired@ucsd.edu
+  photo: /static/img/members/MeixinWu.jpg
+
+- name: Shicai Fan
+  role: Visiting scholar
+  startYear: 2015-01-01
+  endYear: 2016-08-01
+  email: expired@ucsd.edu
+  photo: /static/img/members/ShicaiFan.jpg
+  current: Associate Professor, University of Electronic Science and Technology of China, Chengdu, China
+
+- name: Hamed Tabatabaei Ghomi
+  role: Postdoc
+  startYear: 2015-09-01
+  endYear: 2016-12-01
+  email: expired@ucsd.edu

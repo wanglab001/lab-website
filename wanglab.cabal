@@ -1,0 +1,28 @@
+name:               wanglab
+version:            0.1.0
+build-type:         Simple
+cabal-version:      >= 1.10
+
+executable site
+  hs-source-dirs:   src
+  main-is:          Main.hs
+  other-modules:
+    WangLab.Compiler
+    WangLab.Context
+    WangLab.Types
+
+  build-depends:
+      base == 4.*
+    , bytestring
+    , blaze-html
+    , containers
+    , hakyll
+    , mtl
+    , pandoc
+    , pandoc-types
+    , split
+    , time
+    , yaml
+
+  ghc-options:      -threaded -Wall
+  default-language: Haskell2010
