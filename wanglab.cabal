@@ -3,8 +3,8 @@ version:            0.1.0
 build-type:         Simple
 cabal-version:      >= 1.10
 
-executable site
-  hs-source-dirs:   src
+executable wanglab
+  hs-source-dirs:   compiler
   main-is:          Main.hs
   other-modules:
     WangLab.Compiler

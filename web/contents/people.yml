@@ -26,12 +26,6 @@
   email: vungo2004@gmail.com
   photo: /static/img/members/VuNgo.jpg
 
-- name: Xue Sheng
-  role: PhD
-  startYear: 2015-09-01
-  email: xusheng@ucsd.edu
-  photo: /static/img/members/XueSheng.jpg
-
 - name: Chengyu Liu
   role: PhD
   startYear: 2015-09-01
@@ -88,6 +82,12 @@
 ################################################################################
 ## Master students
 ################################################################################
+
+- name: Jia Xu
+  role: Master
+  startYear: 2017-09-01
+  email: xxx0@ucsd.edu
+  photo: /static/img/face.png
 
 ################################################################################
 ## Alumni
@@ -301,3 +301,10 @@
   startYear: 2015-09-01
   endYear: 2016-12-01
   email: expired@ucsd.edu
+
+- name: Xue Sheng
+  role: Master
+  startYear: 2015-09-01
+  endYear: 2017-09-01
+  email: xusheng@ucsd.edu
+  photo: /static/img/members/XueSheng.jpg

@@ -9,7 +9,7 @@ import           Control.Monad.State.Lazy
 import qualified Data.ByteString.Lazy            as BL
 import           Data.Function                   (on)
 import           Data.List
-import           Data.List.Split                 (chunksOf, splitOn, splitWhen)
+import           Data.List.Split                 (chunksOf, splitOn)
 import qualified Data.Map                        as M
 import           Data.Maybe
 import           Data.Ord
@@ -24,7 +24,6 @@ import qualified Text.Blaze.Html5.Attributes     as H
 import           Text.Pandoc
 import qualified Text.Pandoc.Builder             as P
 import           Text.Printf                     (printf)
-import           Text.Read                       (readMaybe)
 
 import           WangLab.Types
 
@@ -117,11 +116,11 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
                     Just xs -> do
                         H.h2 "Postdoctoral researchers"
                         membersToHTML xs
-                graduate = case M.lookup "PhD" members of
-                    Nothing -> mempty
-                    Just xs -> do
-                        H.h2 "Graduate Students"
-                        membersToHTML xs
+                graduate | null elems = mempty
+                         | otherwise = H.h2 "Graduate Students" >> membersToHTML elems
+                  where
+                    elems = M.findWithDefault [] "PhD" members ++
+                        M.findWithDefault [] "Master" members
                 alumni' = do
                     H.h2 "Alumni"
                     H.ul $ mapM_ (H.li . H.string) $ prettyPrintAlumi alumni
