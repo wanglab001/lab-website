@@ -1,3 +1,12 @@
+2017
+----
+
+Bo Ding#, Lina Zheng#, Wei Wang. Assessment of Single Cell RNA-Seq Normalization Methods. G3: GENES, GENOMES, GENETICS. July 1, 2017.
+
+Bingfei Yu#, Kai Zhang#, J Justin Milner, Clara Toma, Runqiang Chen, James P Scott-Browne, Renata M Pereira, Shane Crotty, John T Chang, Matthew E Pipkin, Wei Wang\* and Ananda W Goldrath\*.
+[Epigenetic landscapes reveal transcription factors that regulate CD8+ T cell differentiation](https://www.ncbi.nlm.nih.gov/pubmed/28288100).
+Nature Immunology. March 13, 2017.
+
 2016
 ----
 
@@ -50,9 +59,9 @@ Na Zou, Yun Zhu, Ji Zhu, Mustafa Baydogan, Wei Wang, Jing Li. A transfer learnin
 
 Nan Li#, Richard Ainsworth#, Bo Ding, Tingjun Hou\*, Wei Wang\*. Using Hierarchical Virtual Screening To Combat Drug Resistance of the HIV-1 Protease. Journal of Chemical Information and Modeling. 2015, 55,1400-1412.
 
-John W. Whitaker, David L. Boyle, Beatrix Bartok, Scott T. Ball, Steffen Gay, Wei Wang\*, Gary S. Firestein\*. Integrative omics analysis of rheumatoid arthritis identifies non-obvious therapeutic targets. PLOS ONE. 2015, 10, 4, e0124254. (\* corresponding authors)
+John W. Whitaker, David L. Boyle, Beatrix Bartok, Scott T. Ball, Steffen Gay, Wei Wang\*, Gary S. Firestein\*. Integrative omics analysis of rheumatoid arthritis identifies non-obvious therapeutic targets. PLOS ONE. 2015, 10, 4, e0124254.
 
-Rizi Ai, John W. Whitaker, David L. Boyle, Paul Peter Tak, Danielle M. Gerlag, Wei Wang\*, Gary S. Firestein\*. DNA Methylome Signature in Early Rheumatoid Arthritis Synoviocytes Compared with Longstanding Rheumatoid Arthritis and Other Inflammatory. Arthritis & Rheumatology. 2015, 67, 1978-1980. (\* corresponding authors)
+Rizi Ai, John W. Whitaker, David L. Boyle, Paul Peter Tak, Danielle M. Gerlag, Wei Wang\*, Gary S. Firestein\*. DNA Methylome Signature in Early Rheumatoid Arthritis Synoviocytes Compared with Longstanding Rheumatoid Arthritis and Other Inflammatory. Arthritis & Rheumatology. 2015, 67, 1978-1980.
 
  Matthew D. Schultz, Yupeng He, John W. Whitaker, Manoj Hariharan, Eran A. Mukamel, Danny Leung, Nisha Rajagopal, Joseph R. Nery, Mark A. Urich, Huaming Chen, Shin Lin, Yiing Lin, Inkyung Jung, Anthony D. Schmitt, Siddarth Selvaraj, Bing Ren, Terrence J. Sejnowski, Wei Wang, Joseph R. Ecker. Human Body Epigenome
 Maps Reveal Noncanonical DNA Methylation Variation. Nature. 2015, 523, 212-216. 
@@ -60,7 +69,8 @@ Maps Reveal Noncanonical DNA Methylation Variation. Nature. 2015, 523, 212-216.
 Roadmap Epigenomics Consortium, Anshul Kundaje, Wouter Meuleman, Jason Ernst, Misha Bilenky, Angela Yen, Alireza Heravi-Moussavi, Pouya Kheradpour, Zhizhuo Zhang, Jianrong Wang, Michael J. Ziller, Viren Amin, John W. Whitaker, Matthew D. Schultz, Lucas D. Ward, Abhishek Sarkar, Gerald Quon, Richard S. Sandstrom, Matthew L. Eaton, Yi-Chieh Wu, Andreas R. Pfenning, Xinchen Wang, Melina Claussnitzer, Yaping Liu, Cristian Coarfa, R. Alan Harris, Noam Shoresh, Charles B. Epstein, Elizabeta Gjoneska, Danny Leung, Wei Xie, R. David Hawkins, Ryan Lister, Chibo Hong, Philippe Gascard, Andrew J. Mungall, Richard Moore, Eric Chuah, Angela Tam, Theresa K. Canfield, R. Scott Hansen, Rajinder Kaul, Peter J. Sabo, Mukul S. Bansal, Annaick Carles, Jesse R. Dixon, Kai-How Farh, Soheil Feizi, Rosa Karlic, Ah-Ram Kim, Ashwinikumar Kulkarni, Daofeng Li, Rebecca Lowdon, GiNell Elliott, Tim R. Mercer, Shane J. Neph, Vitor Onuchic, Paz Polak, Nisha Rajagopal, Pradipta Ray, Richard C. Sallari, Kyle T. Siebenthall, Nicholas A. Sinnott-Armstrong, Michael Stevens, Robert E. Thurman, Jie Wu, Bo Zhang, Xin Zhou, Arthur E. Beaudet, Laurie A. Boyer, Philip L. De Jager, Peggy J. Farnham, Susan J. Fisher, David Haussler, Steven J. M. Jones, Wei Li, Marco A. Marra, Michael T. McManus, Shamil Sunyaev, James A. Thomson, Thea D. Tlsty, Li-Huei Tsai, Wei Wang, Robert A. Waterland, Michael Q. Zhang, Lisa H. Chadwick, Bradley E. Bernstein, Joseph F. Costello, Joseph R. Ecker, Martin Hirst, Alexander Meissner, Aleksandar Milosavljevic, Bing Ren, John A. Stamatoyannopoulos, Ting Wang, Manolis Kellis. Integrative analysis of 111 reference human epigenomes. Nature. 2015, 518, 317–330 (John W. Whitaker: equal contributors of integrative analysis leads; Wei Wang: co-principal investigators)
 
 Anna-Karin H. Ekwall, John W. Whitaker, Deepa Hammaker, William Bugbee,
-Wei Wang\* and Gary S. Firestein\*. The Rheumatoid Arthritis Risk Gene, LBH, Regulates Growth in Fibroblast-like Synoviocytes. Arthritis & Rheumatology. 2015, 67, 1193-1202 (\* corresponding authors)
+Wei Wang\* and Gary S. Firestein\*. The Rheumatoid Arthritis Risk Gene, LBH, Regulates Growth in Fibroblast-like Synoviocytes. Arthritis & Rheumatology. 2015, 67, 1193-1202.
+
 Bo Ding#, Lina Zheng#, Yun Zhu, Nan Li, Haiyang Jia, Rizi Ai, Andre Wildberg, Wei Wang. Normalization and noise reduction for single cell RNA-seq experiments. Bioinformatics. 2015, 31, 2225-2227.
 
 John W. Whitaker, Tung T. Nguyen, Yun Zhu, Andre Wildberg, Wei Wang. Computational schemes for the prediction and annotation of enhancers from epigenomic assays. Methods. 2015, 72, 86-94.
@@ -119,7 +129,7 @@ Nan Li, Tingjun Hou, Bo Ding, Wei Wang. Characterization of PDZ domain-peptide i
 
 Rui Chang, Robert Shoemaker, Wei Wang. A novel knowledge-driven systems biology approach for phenotype prediction upon genetic intervention. IEEE/ACM Transactions on Computational Biology and Bioinformatics. 2011, 8, 1170-1182.
 
-Tingjun Hou\*, Youyong Li, Wei Wang\*. Prediction of peptides binding to the PKA RII{alpha} subunit using a hierarchical strategy. Bioinformatics. 2011, 27, 1814-1821. (\* corresponding authors).
+Tingjun Hou\*, Youyong Li, Wei Wang\*. Prediction of peptides binding to the PKA RII{alpha} subunit using a hierarchical strategy. Bioinformatics. 2011, 27, 1814-1821.
 
 Shengchao Ding, Wei Wang. Recipes and mechanisms of cellular reprogramming: a case study on budding yeast Saccharomyces cerevisiae. BMC System Biology. 2011, 5:50.
 

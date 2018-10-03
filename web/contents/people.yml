@@ -38,6 +38,18 @@
   email: kasthana@eng.ucsd.edu
   photo: /static/img/members/KanishkAsthana.jpg
 
+- name: Lina Zheng
+  role: PhD
+  startYear: 2017-09-01
+  email: liz227@eng.ucsd.edu 
+  photo: /static/img/members/LinaZheng.jpg
+
+- name: Peiyao Wu
+  role: PhD
+  startYear: 2017-09-01
+  email: pew068@ucsd.edu 
+  photo: /static/img/members/PeiyaoWu.jpg
+
 ################################################################################
 ## Postdocs
 ################################################################################
@@ -86,8 +98,8 @@
 - name: Jia Xu
   role: Master
   startYear: 2017-09-01
-  email: xxx0@ucsd.edu
-  photo: /static/img/face.png
+  email: jix136@ucsd.edu
+  photo: /static/img/members/JiaXu.png
 
 ################################################################################
 ## Alumni
