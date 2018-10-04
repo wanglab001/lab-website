@@ -1,6 +1,5 @@
 module WangLab.Context
-    ( postCtx
-    , memberCtx
+    ( memberCtx
     , siteCtx
     ) where
 
@@ -9,11 +8,6 @@ import           Data.Monoid   ((<>))
 import           Hakyll
 
 import           WangLab.Types
-
-postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" <>
-    siteCtx
 
 memberCtx :: Context Member
 memberCtx = field "name" (\item -> return $ name $ itemBody item) <>

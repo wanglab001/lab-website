@@ -4,7 +4,7 @@ import           Hakyll
 import Data.Yaml (decodeFile)
 
 import           WangLab.Compiler
-import           WangLab.Context  (memberCtx, postCtx, siteCtx)
+import           WangLab.Context  (memberCtx, siteCtx)
 
 
 --------------------------------------------------------------------------------
