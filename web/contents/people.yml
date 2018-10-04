@@ -8,12 +8,6 @@
 ## PhD students
 ################################################################################
 
-- name: Kai Zhang
-  role: PhD
-  startYear: 2013-09-01
-  email: kaz007@ucsd.edu
-  photo: /static/img/members/KaiZhang.jpg
-
 - name: Mengchi Wang
   role: PhD
   startYear: 2014-09-01
@@ -42,13 +36,13 @@
   role: PhD
   startYear: 2017-09-01
   email: liz227@eng.ucsd.edu 
-  photo: /static/img/members/LinaZheng.jpg
+  photo: /static/img/members/LinaZheng.png
 
 - name: Peiyao Wu
   role: PhD
   startYear: 2017-09-01
   email: pew068@ucsd.edu 
-  photo: /static/img/members/PeiyaoWu.jpg
+  photo: /static/img/members/PeiyaoWu.jpeg
 
 ################################################################################
 ## Postdocs
@@ -90,6 +84,23 @@
   email: yiz640@ucsd.edu
   photo: /static/img/members/YingZhao.png
 
+- name: Jun Wang
+  role: Postdoc
+  startYear: 2017-09-01
+  email: junwangmath@gmail.com
+  photo: /static/img/members/JunWang.jpg
+
+- name: Zengmiao Wang
+  role: Postdoc
+  startYear: 2017-09-01
+  email: wangzengmiao@gmail.com 
+  photo: /static/img/members/ZengmiaoWang.jpg
+
+- name: Kai Zhang
+  role: Postdoc
+  startYear: 2018-09-24
+  email: kaz007@ucsd.edu
+  photo: /static/img/members/KaiZhang.jpg
 
 ################################################################################
 ## Master students
@@ -99,7 +110,7 @@
   role: Master
   startYear: 2017-09-01
   email: jix136@ucsd.edu
-  photo: /static/img/members/JiaXu.png
+  photo: /static/img/members/JiaXu.jpeg
 
 ################################################################################
 ## Alumni
@@ -320,3 +331,10 @@
   endYear: 2017-09-01
   email: xusheng@ucsd.edu
   photo: /static/img/members/XueSheng.jpg
+
+- name: Kai Zhang
+  role: PhD
+  startYear: 2013-09-01
+  endYear: 2018-09-24
+  email: kaz007@ucsd.edu
+  photo: /static/img/members/KaiZhang.jpg

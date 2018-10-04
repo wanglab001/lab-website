@@ -14,8 +14,6 @@ Roberto Spreafico, Maura Rossetti, John W. Whitaker, Wei Wang, Daniel J. Lovell,
 [Epipolymorphisms associated with the clinical outcome of autoimmune arthritis affect CD4+ T cell activation pathways](http://www.pnas.org/content/113/48/13845.long).
 PNAS. November 14, 2016.
 
-Bo Ding, Lina Zheng, Wei Wang. Assessment of single cell RNA-seq normalization methods. BioArchive. doi:http://dx.doi.org/10.1101/064329.
-
 Kai Zhang, Nan Li, Richard Ainsworth, Wei Wang.
 [Systematic identification of protein combinations mediating chromatin looping](http://www.nature.com/articles/ncomms12249).
 Nature Communications. 2016.

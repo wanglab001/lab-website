@@ -9,7 +9,7 @@ import           Control.Monad.State.Lazy
 import qualified Data.ByteString.Lazy            as BL
 import           Data.Function                   (on)
 import           Data.List
-import           Data.List.Split                 (chunksOf, splitOn)
+import           Data.List.Split (splitOn)
 import qualified Data.Map                        as M
 import           Data.Maybe
 import           Data.Ord
@@ -19,7 +19,7 @@ import           Data.Time                       (defaultTimeLocale, formatTime,
 import           Data.Yaml
 import           Hakyll
 import           Text.Blaze.Html.Renderer.String (renderHtml)
-import qualified Text.Blaze.Html5                as H
+import qualified Text.Blaze.Html5                as H hiding (style)
 import qualified Text.Blaze.Html5.Attributes     as H
 import           Text.Pandoc
 import qualified Text.Pandoc.Builder             as P
@@ -101,7 +101,7 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
             let (alumni, present) = partition (isJust . endYear) r
                 members = M.fromList $ map (\x -> (role $ head x, x)) $
                     groupBy ((==) `on` role) $ sortBy (comparing role) present
-                pi = case M.lookup "PI" members of
+                p = case M.lookup "PI" members of
                     Nothing -> mempty
                     Just xs -> do
                         H.h2 "Principal Investigator"
@@ -125,18 +125,19 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
                     H.h2 "Alumni"
                     H.ul $ mapM_ (H.li . H.string) $ prettyPrintAlumi alumni
 
-            in H.div H.! H.class_ "container" $ pi >> scientist >> postdoc >>
+            in H.div H.! H.class_ "container" $ p >> scientist >> postdoc >>
                 graduate >> alumni'
 
     membersToHTML xs = H.div H.! H.class_ "card-deck-wrapper" $
-        mapM_ ((H.div H.! H.class_ "card-deck") . mapM_ f) $ chunksOf 3 xs
+        H.div H.! H.class_ "row" $ mapM_ f xs
       where
-        f x = H.div H.! H.class_ "card text-xs-center" $ do
-            H.img H.! H.class_ "card-img-top img-fluid rounded"
-                H.! H.src (fromString $ fromMaybe "" $ photo x)
-            H.div H.! H.class_ "card-block" $ do
-                H.h4 H.! H.class_ "card-title" $ H.toHtml $ name x
-                H.p H.! H.class_ "card-text" $ H.toHtml $ "Email: " ++ email x
+        f x = H.div H.! H.class_ "col-md-6 col-sm-6 col-lg-4 col-xl-3" $
+            H.div H.! H.class_ "card text-center" H.! H.style "width: 260px" $ do
+                H.img H.! H.class_ "card-img-top img-fluid rounded" H.! 
+                    H.src (fromString $ fromMaybe "" $ photo x)
+                H.div H.! H.class_ "card-body" $ do
+                    H.h4 H.! H.class_ "card-title" $ H.toHtml $ name x
+                    H.p H.! H.class_ "card-text" $ H.toHtml $ "Email: " ++ email x
 
         {-
     f (Item a b) = return $ case decodeEither (BL.toStrict b) of
