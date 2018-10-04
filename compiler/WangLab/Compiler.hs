@@ -106,11 +106,6 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
                     Just xs -> do
                         H.h2 "Principal Investigator"
                         membersToHTML xs
-                scientist = case M.lookup "Scientist" members of
-                    Nothing -> mempty
-                    Just xs -> do
-                        H.h2 "Project Scientists"
-                        membersToHTML xs
                 postdoc = case M.lookup "Postdoc" members of
                     Nothing -> mempty
                     Just xs -> do
@@ -125,7 +120,7 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
                     H.h2 "Alumni"
                     H.ul $ mapM_ (H.li . H.string) $ prettyPrintAlumi alumni
 
-            in H.div H.! H.class_ "container" $ p >> scientist >> postdoc >>
+            in H.div H.! H.class_ "container" $ p >> postdoc >>
                 graduate >> alumni'
 
     membersToHTML xs = H.div H.! H.class_ "card-deck-wrapper" $
@@ -138,14 +133,6 @@ memberCompiler = getResourceLBS >>= (\(Item i content) ->
                 H.div H.! H.class_ "card-body" $ do
                     H.h4 H.! H.class_ "card-title" $ H.toHtml $ name x
                     H.p H.! H.class_ "card-text" $ H.toHtml $ "Email: " ++ email x
-
-        {-
-    f (Item a b) = return $ case decodeEither (BL.toStrict b) of
-        Left msg -> error msg
-        Right r -> let (alumni, present) = partition (isJust . endYear) r
-                   in M.fromList $ map (\x -> (role $ head x, map (Item a) x)) $
-                        groupBy ((==) `on` role) $ sortBy (comparing role) present
-                        -}
 
 prettyPrintAlumi :: [Member] -> [String]
 prettyPrintAlumi = map f . sortBy (flip (comparing (endYear . last))) .

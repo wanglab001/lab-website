@@ -19,6 +19,5 @@ siteCtx =
     constField "baseurl" "" <>
     constField "site_description" "wanglab" <>
     constField "twitter_username" "wanglab" <>
-    constField "github_username" "wanglab" <>
-    constField "google_username" "wanglab" <>
+    constField "github_username" "Wang-lab-UCSD" <>
     defaultContext
