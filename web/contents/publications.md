@@ -48,7 +48,7 @@ Genomics. 2016, Available online.
 
 Nan Li, Richard Ainsworth, Meixin Wu, Bo Ding, Wei Wang.
 [MIEC-SVM: automated pipeline for protein peptide/ligand interaction prediction](https://www.ncbi.nlm.nih.gov/pubmed/26568623).
-Bioinformatics. 2016, 32, 940-942. [MIEC-SVM Download]
+Bioinformatics. 2016, 32, 940-942.
 
 2015
 ----
@@ -198,7 +198,7 @@ Nathaniel D Heintzman, Rhona K Stuart, Gary Hon, Yutao Fu, Christina W Ching, R 
 
 Tingjun Hou, Junmei Wang, Wei Zhang, Wei Wang, Xiaojie Xu. Recent advances in computational prediction of drug absorption and permeability in drug discovery. Current Medicinal Chemistry. 2006, 13, 2653-2667.
 
-Junmei Wang, Wei Wang, Peter A. Kollman and David A. Case. Automatic atom type and bond type perception in molecular mechanical calculations. Journal of Molecular Graphics and Modelling. 2006, 25, 247-260. [HTML] [PDF]
+Junmei Wang, Wei Wang, Peter A. Kollman and David A. Case. Automatic atom type and bond type perception in molecular mechanical calculations. Journal of Molecular Graphics and Modelling. 2006, 25, 247-260.
 
 Chung JL, Wei Wang and Bourne PE. Exploiting sequence and structure homologs to identify protein-protein binding sites. Proteins: Structure, Function and Genetics. 2006, 62, 630-40.
 
