@@ -1,5 +1,8 @@
 name:               wanglab
 version:            0.1.0
+author:             Kai Zhang
+maintainer:         kai@kzhang.org
+copyright:          (c) 2018 Kai Zhang
 build-type:         Simple
 cabal-version:      >= 1.10
 
@@ -8,6 +11,8 @@ executable wanglab
   main-is:          Main.hs
   other-modules:
     WangLab.Compiler
+    WangLab.Compiler.Member
+    WangLab.Compiler.Publication
     WangLab.Context
     WangLab.Types
 

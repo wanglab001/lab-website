@@ -45,32 +45,38 @@
   photo: /static/img/members/PeiyaoWu.jpeg
 
 ################################################################################
-## Postdocs
+## Scientist
 ################################################################################
 
+
 - name: Zhao Chen
-  role: Postdoc
+  role: Scientist
   startYear: 2010-09-01
   email: z7chen@ucsd.edu
   photo: /static/img/members/ZhaoChen.jpg
 
 - name: Rizi Ai
-  role: Postdoc
+  role: Scientist
   startYear: 2012-09-01
   email: riai@ucsd.edu
   photo: /static/img/members/RiziAi.jpg
+
+- name: Richard Ainsworth
+  role: Scientist
+  startYear: 2013-09-01
+  email: rainsworth@ucsd.edu
+  photo: /static/img/members/RichardAinsworth.png
+
+
+################################################################################
+## Postdocs
+################################################################################
 
 - name: Andre Wildberg
   role: Postdoc
   startYear: 2012-09-01
   email: awildberg@ucsd.edu
   photo: /static/img/members/AndreWildberg.jpg
-
-- name: Richard Ainsworth
-  role: Postdoc
-  startYear: 2013-09-01
-  email: rainsworth@ucsd.edu
-  photo: /static/img/members/RichardAinsworth.png
 
 - name: Ryan Hard
   role: Postdoc
